@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9e0a9017eeb2534097cf9d8a3027a9f, type: 3}
+  m_Name: FigureConfigurations
+  m_EditorClassIdentifier: 
+  _figures:
+  - {fileID: 6720672388030895721, guid: 52679c382b0af6b44929506f47872f8d, type: 3}
+  - {fileID: -3642454522318034554, guid: c179a968673c8e54a901e66db449c370, type: 3}
+  - {fileID: -2657635125406728388, guid: 7b9ddab2cf8ea9f449828cae707292d6, type: 3}
+  - {fileID: -4834643746916271078, guid: 6bc1232c731db1747b03fa7c9ddf3f9b, type: 3}
+  - {fileID: -5742065651695404422, guid: 6a8337e0ddee9ab4983cf4a5313b78b8, type: 3}
+  _colors:
+  - {r: 1, g: 0, b: 0.67058825, a: 1}
+  - {r: 1, g: 0.90588236, b: 0, a: 1}
+  - {r: 0, g: 0.93333334, b: 1, a: 1}
+  - {r: 0.15294118, g: 1, b: 0, a: 1}
+  - {r: 0, g: 0, b: 0, a: 1}
+  _sprites:
+  - {fileID: 2913249149326906964, guid: faeefd071dfe8fc4ab102e120384ad39, type: 3}
+  - {fileID: 3221551778363255486, guid: fee550024d583af458cced9b58a2ea93, type: 3}
+  - {fileID: -4399918700794476445, guid: c7ecb04e29f98b64582ac8689571a757, type: 3}
+  - {fileID: 1464974925337557891, guid: d80a22cdc8e47df4189f1a67a67ef37f, type: 3}
+  - {fileID: 2598712437544095517, guid: b668f08156e4e254d9d2ea6c51ce7c1a, type: 3}
+  - {fileID: -5364092445802992188, guid: 9a0bc283f4661ad4399d9c63142be970, type: 3}
+  - {fileID: 3783152535937683311, guid: 05737c1c2f560fb47bb4a79951fd8249, type: 3}
